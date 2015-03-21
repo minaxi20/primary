@@ -1,0 +1,2 @@
+# primary
+Trying out Django
